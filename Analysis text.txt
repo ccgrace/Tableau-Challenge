@@ -1,0 +1,9 @@
+Analysis
+
+Supplying the Top 10 Stations with Bikes:
+
+The top 10 starting and ending stations are, unsurprisingly, in and around the city center. Each of the top 10 starting stations has multiple ending stations. This might lead one to believe that the most popular starting stations would run out of a supply of bikes. However, one trend that is noticed in the data is that most of the most popular ending stations are also the most popular starting stations. Therefore, the supply of bicycles at the most popular start stations are mostly filled by bicycles left by previous customers and do not require much intervention by City Bike employees.
+
+Member vs. Casual Usage
+
+Ridership this year has been inconsistent but has trended mostly positive overall. It is unknown if these trends are due to impacts from the pandemic or other factors. Interestingly, there is a dramatic increase in the number of casual riders starting in week 20. It might be worth while to try an advertising campaign to get these casual riders to become members.
